@@ -1,6 +1,6 @@
-# techjar
+# Tech Jar Assignment
 
-A new Flutter project.
+Implementing a simple listing and detail showcase application using the following APIs:
 
 ## Getting Started
 
